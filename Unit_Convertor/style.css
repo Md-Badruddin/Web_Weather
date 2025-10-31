@@ -1,0 +1,40 @@
+
+body {
+  background: #f5f8fa;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.container {
+  max-width: 350px;
+  margin: 50px auto;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px #d4e6ec;
+  padding: 2rem;
+  text-align: center;
+}
+
+input[type="number"], select {
+  margin: 1rem 0;
+  padding: 0.5rem;
+  width: 80%;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+  font-size: 1.1em;
+}
+
+button {
+  background: #00b894;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+p#result {
+  margin-top: 1.5rem;
+  font-size: 1.1em;
+  color: #333;
+}
