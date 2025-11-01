@@ -1,0 +1,40 @@
+
+body {
+  background: #f4f7fa;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.container {
+  max-width: 350px;
+  margin: 60px auto;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px #d0e6f8;
+  padding: 2rem;
+  text-align: center;
+}
+
+#timer {
+  font-size: 3em;
+  margin: 1.5rem 0;
+  color: #00897b;
+  font-weight: bold;
+}
+
+button {
+  background: #00897b;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1.2rem;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 0 10px;
+  font-size: 1em;
+}
+
+#status {
+  margin-top: 1.5rem;
+  color: #255868;
+  font-size: 1.1em;
+}
